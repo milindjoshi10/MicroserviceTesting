@@ -10,3 +10,5 @@ eureka:
     
     
 ModuleName: XYZModule
+
+msg: Git Development Environment Hello from config server.
